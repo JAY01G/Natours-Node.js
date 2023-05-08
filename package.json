@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.16",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Node and Express using project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Goswami",
+  "license": "ISC"
+}
